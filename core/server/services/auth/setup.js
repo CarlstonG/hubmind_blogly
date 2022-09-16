@@ -11,7 +11,7 @@ const messages = {
     setupAlreadyCompleted: 'Setup has already been completed.',
     setupMustBeCompleted: 'Setup must be completed before making this request.',
     setupUnableToRun: 'Database missing fixture data. Please reset database and try again.',
-    sampleBlogDescription: 'Thoughts, stories and ideas.',
+    sampleBlogDescription: 'Powered by Hubmind.',
     yourNewGhostBlog: 'Your New Ghost Site',
     unableToSendWelcomeEmail: 'Unable to send welcome email, your site will continue to function.',
     failedThemeInstall: 'Theme {themeName} didn\'t install because of the error: {error}'

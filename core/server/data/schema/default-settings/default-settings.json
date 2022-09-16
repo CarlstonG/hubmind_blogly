@@ -59,7 +59,7 @@
     },
     "site": {
         "title": {
-            "defaultValue": "Ghost",
+            "defaultValue": "Hubmind Blogly",
             "validations": {
                 "isLength": {
                     "max": 150
@@ -69,7 +69,7 @@
             "type": "string"
         },
         "description": {
-            "defaultValue": "Thoughts, stories and ideas",
+            "defaultValue": "Powered by: Hubmind",
             "validations": {
                 "isLength": {
                     "max": 200
